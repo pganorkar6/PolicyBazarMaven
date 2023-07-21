@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Applying a sleep of 1000 ]]>
+    </line>
+    <line>
+      <![CDATA[Reading data for URL from property file]]>
+    </line>
+    <line>
+      <![CDATA[Launching browser]]>
+    </line>
+    <line>
+      <![CDATA[Applying a sleep of 1000 ]]>
+    </line>
+    <line>
+      <![CDATA[Applying a sleep of 2000 ]]>
+    </line>
+    <line>
+      <![CDATA[Reading data for MN from property file]]>
+    </line>
+    <line>
+      <![CDATA[Applying a sleep of 2000 ]]>
+    </line>
+    <line>
+      <![CDATA[Applying a sleep of 1000 ]]>
+    </line>
+    <line>
+      <![CDATA[Reading data for pw from property file]]>
+    </line>
+    <line>
+      <![CDATA[Applying a sleep of 1000 ]]>
+    </line>
+    <line>
+      <![CDATA[Applying a sleep of 1000 ]]>
+    </line>
+    <line>
+      <![CDATA[Applying a sleep of 1000 ]]>
+    </line>
+    <line>
+      <![CDATA[Applying a sleep of 1000 ]]>
+    </line>
+    <line>
+      <![CDATA[Applying a sleep of 1000 ]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-20T18:57:42 IST" name="Suite" finished-at="2023-07-20T18:58:09 IST" duration-ms="27120">
+    <groups>
+    </groups>
+    <test started-at="2023-07-20T18:57:42 IST" name="Test" finished-at="2023-07-20T18:58:09 IST" duration-ms="27120">
+      <class name="Test1.PolicyBazar_Test_Utility_Base">
+        <test-method is-config="true" signature="launchpolicybazar()[pri:0, instance:Test1.PolicyBazar_Test_Utility_Base@27406a17]" started-at="2023-07-20T18:57:42 IST" name="launchpolicybazar" finished-at="2023-07-20T18:57:54 IST" duration-ms="11988" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Applying a sleep of 1000 ]]>
+            </line>
+            <line>
+              <![CDATA[Reading data for URL from property file]]>
+            </line>
+            <line>
+              <![CDATA[Launching browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchpolicybazar -->
+        <test-method is-config="true" signature="SigninToPolicyBazar()[pri:0, instance:Test1.PolicyBazar_Test_Utility_Base@27406a17]" started-at="2023-07-20T18:57:54 IST" name="SigninToPolicyBazar" finished-at="2023-07-20T18:58:08 IST" duration-ms="14017" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Applying a sleep of 1000 ]]>
+            </line>
+            <line>
+              <![CDATA[Applying a sleep of 2000 ]]>
+            </line>
+            <line>
+              <![CDATA[Reading data for MN from property file]]>
+            </line>
+            <line>
+              <![CDATA[Applying a sleep of 2000 ]]>
+            </line>
+            <line>
+              <![CDATA[Applying a sleep of 1000 ]]>
+            </line>
+            <line>
+              <![CDATA[Reading data for pw from property file]]>
+            </line>
+            <line>
+              <![CDATA[Applying a sleep of 1000 ]]>
+            </line>
+            <line>
+              <![CDATA[Applying a sleep of 1000 ]]>
+            </line>
+            <line>
+              <![CDATA[Applying a sleep of 1000 ]]>
+            </line>
+            <line>
+              <![CDATA[Applying a sleep of 1000 ]]>
+            </line>
+            <line>
+              <![CDATA[Applying a sleep of 1000 ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SigninToPolicyBazar -->
+        <test-method signature="verifyusername()[pri:0, instance:Test1.PolicyBazar_Test_Utility_Base@27406a17]" started-at="2023-07-20T18:58:08 IST" name="verifyusername" finished-at="2023-07-20T18:58:09 IST" duration-ms="1006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyusername -->
+      </class> <!-- Test1.PolicyBazar_Test_Utility_Base -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
